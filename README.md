@@ -7,6 +7,8 @@ Power: 2 x 5S 5000 mAh LiPo:s in series give ~37V
 Controls: VESC 4.12
 Transmission: 12T motor sprocket to a 92T wheel sprocket gives a ratio of ~7.67:1. I believed that this was enough but I could easily have done with between 10:1 and 15:1, it's quite weak in torque but it's still really fun!
 
+The mounting assembly I designed to be able to attach the sprocket to the wheel is something that worked surprisingly well. It's rock solid despite it being 3D-printed (ofcourse not the sprocket though).
+
 WIP:
 - Aluminium attachment plate for:
   - Chain tensioner
