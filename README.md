@@ -11,6 +11,8 @@ The mounting assembly I designed to be able to attach the sprocket to the wheel 
 
 The giant transparent plate is 8 mm acrylic that was laser-cut.
 
+Making sure to include most of the bike frame in the CAD assembly really helped. Designing clamps was made so much easier.
+
 WIP:
 - Aluminium attachment plate for:
   - Chain tensioner
