@@ -9,6 +9,8 @@ Transmission: 12T motor sprocket to a 92T wheel sprocket gives a ratio of ~7.67:
 
 The mounting assembly I designed to be able to attach the sprocket to the wheel is something that worked surprisingly well. It's rock solid despite it being 3D-printed (ofcourse not the sprocket though).
 
+The giant transparent plate is 8 mm acrylic that was laser-cut.
+
 WIP:
 - Aluminium attachment plate for:
   - Chain tensioner
