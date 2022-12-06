@@ -13,19 +13,19 @@ The giant transparent plate is 8 mm acrylic that was laser-cut.
 
 Making sure to include most of the bike frame in the CAD assembly really helped. Designing clamps was made so much easier.
 
-WIP:
-- Aluminium attachment plate for:
-  - Chain tensioner
-  - Solution to enable a higher gearing ratio
+The upgrades for "Version 2":
 - RGB lighting
 - Mount for Bluetooth speakers
 
- <img src="https://raw.githubusercontent.com/GustavAbrahamsson/Electric-chopper/main/Pictures/IMG_20211107_152323.jpg">
- <img src="https://raw.githubusercontent.com/GustavAbrahamsson/Electric-chopper/main/Pictures/IMG_20211107_152800.jpg">
- <img src="https://raw.githubusercontent.com/GustavAbrahamsson/Electric-chopper/main/Pictures/IMG_20211107_152432.jpg">
- <img src="https://raw.githubusercontent.com/GustavAbrahamsson/Electric-chopper/main/Pictures/IMG_20211107_152457.jpg">
- <img src="https://raw.githubusercontent.com/GustavAbrahamsson/Electric-chopper/main/Pictures/IMG_20211107_152514.jpg">
- <img src="https://raw.githubusercontent.com/GustavAbrahamsson/Electric-chopper/main/Pictures/IMG_20210830_165445.jpg">
+ <img src="https://raw.githubusercontent.com/GustavAbrahamsson/Electric-chopper/main/Pictures/received_370342634953395.jpeg">
+ <img src="https://raw.githubusercontent.com/GustavAbrahamsson/Electric-chopper/main/Pictures/v2assembly.jpg">
+ <img src="https://raw.githubusercontent.com/GustavAbrahamsson/Electric-chopper/main/Pictures/v2_cog.jpg">
+ <img src="https://raw.githubusercontent.com/GustavAbrahamsson/Electric-chopper/main/Pictures/v2cad.jpg">
+ 
+ ## Version 1 with old transmission
+ 
+ <img src="https://raw.githubusercontent.com/GustavAbrahamsson/Electric-chopper/main/Pictures/v1_0.jpg">
+ <img src="https://raw.githubusercontent.com/GustavAbrahamsson/Electric-chopper/main/Pictures/v1_1.jpg">
  <img src="https://raw.githubusercontent.com/GustavAbrahamsson/Electric-chopper/main/Pictures/CAD1.PNG">
- <img src="https://raw.githubusercontent.com/GustavAbrahamsson/Electric-chopper/main/Pictures/CAD2.PNG">
  <img src="https://raw.githubusercontent.com/GustavAbrahamsson/Electric-chopper/main/Pictures/CAD3.PNG">
+ <img src="https://raw.githubusercontent.com/GustavAbrahamsson/Electric-chopper/main/Pictures/IMG_20210830_165445.jpg">
